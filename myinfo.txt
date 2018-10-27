@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name: Mayeda M Meraj
 Email: mayedameraj@ucp.edu.pk
 Faculty of Information Technology
+=======
+Name: Mayeda Muzammil
+Email: mayedameraj@ucp.edu.pk
+Faculty of Information Technology
+>>>>>>> ee66d11300a166b1e82c55410e59c68b70318803
